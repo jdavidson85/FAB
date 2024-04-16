@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#009688</color> <!-- Teal -->
+    <color name="colorPrimaryDark">#00796B</color> <!-- Darker shade of Teal -->
+    <color name="colorAccent">#FF5722</color> <!-- Orange -->
+    <color name="colorGreen">#4CAF50</color> <!-- Green -->
+    <color name="colorPurple">#9C27B0</color> <!-- Purple -->
+</resources>
